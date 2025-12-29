@@ -3,13 +3,13 @@ Interactive Power BI dashboard analyzing 12K+ data/ML job postings: salaries, tr
 ​
 
 ## 🎯 Project Goals
-Track 2024 job trends (volume + salary evolution)
+- Track 2024 job trends (volume + salary evolution)
 
-Drill-through analysis: Job Title → detailed metrics
+- Drill-through analysis: Job Title → detailed metrics
 
-Global map: Job distribution (USA, Europe, Asia, Australia)
+- Global map: Job distribution (USA, Europe, Asia, Australia)
 
-Key KPIs: Median Salary, Hourly Rate, Remote %, Health Insurance
+- Key KPIs: Median Salary, Hourly Rate, Remote %, Health Insurance
 
 ## 📈 Dashboard Screenshots
 
