@@ -13,7 +13,7 @@ Interactive Power BI dashboard analyzing 12K+ data/ML job postings: salaries, tr
 
 ## 📈 Dashboard Screenshots
 
-![Dashboard Preview](<Screenshot 2025-12-29 173038.png>)
+![Dashboard Preview](<Screenshot 2025-12-29 174515.png>)
 ![Dashboard Preview 2](<Screenshot 2025-12-29 173054.png>)
 
 ## 🛠️ Tech Stack
